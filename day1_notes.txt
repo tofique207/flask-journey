@@ -1,0 +1,1 @@
+Flask Journey - Day 1: Repo created successfully!
